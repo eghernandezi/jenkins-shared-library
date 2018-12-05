@@ -4,7 +4,7 @@ package org.build
 class Test {
 
 	def print() {
-		print("Hello")
+		script "Edna"
 	}
 
 	def call(String name = 'human') {

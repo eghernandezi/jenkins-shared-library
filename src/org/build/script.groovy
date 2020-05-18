@@ -1,18 +1,7 @@
-
-package org.build
-
-class Test {
-
-	def print() {
-		script "Edna"
-	}
-
-	def call(String name = 'human') {
+def call(String name = 'human') {
         // Any valid steps can be called from this code, just like in other
         // Scripted Pipeline
         echo "Hello, ${name}."
-    }
 
-//Esta es una prueba
-
+//This is a test
 }

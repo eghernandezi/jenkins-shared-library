@@ -13,5 +13,4 @@ class Test {
         echo "Hello, ${name}."
     }
 
-//Esta es una modificacion de prueba
 }

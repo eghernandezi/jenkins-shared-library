@@ -12,5 +12,5 @@ class Test {
         // Scripted Pipeline
         echo "Hello, ${name}."
     }
-//THIS IS A TEST
+
 }
